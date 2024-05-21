@@ -1,4 +1,4 @@
-# Astro Starter Kit: Minimal
+# abc Blueprint Studio (WIP)
 
 ```sh
 npm create astro@latest -- --template minimal
